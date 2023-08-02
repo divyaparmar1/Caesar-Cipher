@@ -32,8 +32,8 @@ The Caesar Cipher Encryption and Decryption project is a simple cybersecurity pr
    python caesar_cipher.py
    
 ## Screenshots
-Screenshot 1
-Screenshot 2
+![image](https://github.com/divyaparmar1/Caesar-Cipher/assets/112643573/ea2834e7-6353-49cf-89d0-8e0ccb7ac7ca)
+![image](https://github.com/divyaparmar1/Caesar-Cipher/assets/112643573/43ffa587-035e-41ef-ad15-3f2d94421ced)
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
