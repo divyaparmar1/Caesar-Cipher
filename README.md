@@ -25,7 +25,7 @@ The Caesar Cipher Encryption and Decryption project is a simple cybersecurity pr
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/your-username/caesar-cipher.git
+   git clone https://github.com/divyaparmar1/caesar-cipher.git
 2. Navigate to the project directory:
    cd caesar-cipher
 3. Run the script:
